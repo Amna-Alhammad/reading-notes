@@ -11,7 +11,6 @@
 - practicing new skills.
 - not just depending on the intelligence and talent alone but making efforts and working hard a long with it, compared to the fixed mindset where intelligence and talent is the main and only key to success.
 - You have to believe in your abilities and talent along with practicing and gaining new knowledge to improve your skills and to enhance your work outputs
-
 content  | title
 ------------ | -------------
 main       | [README](https://amna-alhammad.github.io/reading-notes/)
@@ -19,4 +18,4 @@ growth mind   | [growth-mind](https://amna-alhammad.github.io/reading-notes/grow
 Markdown and Github       |[markdown-github](https://amna-alhammad.github.io/reading-notes/markdown-github)
 Git          |[git](https://amna-alhammad.github.io/reading-notes/git)
 HTML Summary     |[html](https://amna-alhammad.github.io/reading-notes/html)
- JS&JQ    | [JS&JQ](https://amna-alhammad.github.io/JS&JQ)
+ JS&JQ    | [JS&JQ](https://amna-alhammad.github.io/reading-notes/JS&JQ)
