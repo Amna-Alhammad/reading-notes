@@ -8,7 +8,8 @@ This is my account in the Github [GitHub Pages](https://github.com/Amna-Alhammad
 content  | title
 ------------ | -------------
 main       | [README](https://amna-alhammad.github.io/reading-notes/)
-growth mind   | [growth-mind](https://amna-alhammad.github.io/reading-notes/growth-mind/)
-Markdown and Github       |[markdown-github](https://amna-alhammad.github.io/reading-notes/markdown-github/)
-Git          |[git](https://amna-alhammad.github.io/reading-notes/git/)
-HTML Summary     |[html](https://amna-alhammad.github.io/reading-notes/html/)
+growth mind   | [growth-mind](https://amna-alhammad.github.io/reading-notes/growth-mind)
+Markdown and Github       |[markdown-github](https://amna-alhammad.github.io/reading-notes/markdown-github)
+Git          |[git](https://amna-alhammad.github.io/reading-notes/git)
+HTML Summary     |[html](https://amna-alhammad.github.io/reading-notes/html)
+ JS&JQ    | [JS&JQ](https://amna-alhammad.github.io/JS&JQ)
