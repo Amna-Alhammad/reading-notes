@@ -10,7 +10,10 @@
 - I strive to achieve my goals and challenge obstacles
 - practicing new skills.
 - not just depending on the intelligence and talent alone but making efforts and working hard a long with it, compared to the fixed mindset where intelligence and talent is the main and only key to success.
-- You have to believe in your abilities and talent along with practicing and gaining new knowledge to improve your skills and to enhance your work outputs
+- You have to believe in your abilities and talent along with practicing and gaining new knowledge to improve your skills and to enhance your work outputs.
+
+### ...................................................................................................
+
 
 content  | title
 ------------ | -------------
