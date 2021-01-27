@@ -49,4 +49,4 @@ growth mind   | [growth-mind](https://amna-alhammad.github.io/reading-notes/grow
 Markdown and Github       |[markdown-github](https://amna-alhammad.github.io/reading-notes/markdown-github)
 Git          |[git](https://amna-alhammad.github.io/reading-notes/git)
 HTML Summary     |[html](https://amna-alhammad.github.io/reading-notes/html)
- JS&JQ    | [JS&JQ](https://amna-alhammad.github.io/reading-notes/JS&JQ)
+ JS&JQ    | [JS&JQ](https://amna-alhammad.github.io/reading-notes/JSJQ)
