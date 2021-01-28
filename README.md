@@ -15,3 +15,4 @@ Markdown and Github       |[markdown-github](https://amna-alhammad.github.io/rea
 Git          |[git](https://amna-alhammad.github.io/reading-notes/git)
 HTML Summary     |[html](https://amna-alhammad.github.io/reading-notes/html)
  JS&JQ    | [JS&JQ](https://amna-alhammad.github.io/reading-notes/JSJQ)
+ Operators and Loops | [loop and operators](https://amna-alhammad.github.io/reading-notes/loop)
