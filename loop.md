@@ -1,31 +1,14 @@
 # Operators and Loops
 ## ***Comparison Operators***
 ### **Comparison operators are used in logical statements to determine equality or difference between variables or values.**
-
-
-*****************************************************
-
-Operator |	Description	| Comparing |	Returns
----------|--------------|----------|----------
-==  |	equal to|	x == 8|	false	
-| | |               x == 5	|true	
-| | |               x == "5" |	true
-===	 | equal value and equal type |	x === 5|	true	
-| | |            x === "5"|	false
-!=|	not equal	|x != 8|	true
-!==  |	 not equal value or not equal type|	x !== 5	 |false	
-| | |   x !== "5"	| true	
-| | |   x !== 8 |	true
-
-
-
-
-
-
-
-
-
-
+~~~
+==  	equal to    	x == 8          	false	
+                        x == 5	            true	
+                        x == "5"        	true
+===	    equal value and equal type  	x === 5 	true
+!=   	not equal	 x != 8 	true
+!==  	 not equal value or not equal type   	x !== 5	   false	
+~~~
 
 ## ***Loop***
 ### loops check condition if it return true , a code block  run then the condition will be checked agin if it still true the code block run agin , it's repeats until the condition return false.
