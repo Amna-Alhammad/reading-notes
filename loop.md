@@ -1,6 +1,10 @@
 # Operators and Loops
 ## ***Comparison Operators***
 ### **Comparison operators are used in logical statements to determine equality or difference between variables or values.**
+
+
+*****************************************************
+
 Operator |	Description	| Comparing |	Returns
 ---------|--------------|----------|----------
 ==  |	equal to|	x == 8|	false	
