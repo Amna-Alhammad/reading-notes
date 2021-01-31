@@ -1,5 +1,5 @@
 # **Functions**
- ## function is a block of code designed to perform a particular task.
+ ## *function is a block of code designed to perform a particular task.*
 
 ## **Function Syntax:**
 ### - function is defined with the function keyword, followed by a name, followed by parentheses ().
