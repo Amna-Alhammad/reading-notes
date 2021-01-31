@@ -1,7 +1,7 @@
 # reading-notes
-## I'm Amna Alhammad
-### I graduated from The University of Jordan   in Computer Science
-***coding and programming have been my dream from a long time that I've got this opportunity to acheive my dream to become a great programmer***
+## **I'm Amna Alhammad**
+### *I graduated from The University of Jordan with a bachelor degree in Computer Science*
+***Codig and programming have been my dream for a long time. Having this opportunity will be the first step towards achieving my dream.***
 ![successfyl](https://www.wealthacademyglobal.com/wp-content/uploads/2016/12/Success-1030x686.jpg)
 This is my account in the Github [GitHub Pages](https://github.com/Amna-Alhammad/)
 
