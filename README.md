@@ -16,3 +16,7 @@ Git          |[git](https://amna-alhammad.github.io/reading-notes/git)
 HTML Summary     |[html](https://amna-alhammad.github.io/reading-notes/html)
  JS&JQ    | [JS&JQ](https://amna-alhammad.github.io/reading-notes/JSJQ)
  Operators and Loops | [loop and operators](https://amna-alhammad.github.io/reading-notes/loop)
+ Function |[function](https://amna-alhammad.github.io/reading-notes/function)
+ CSS and Color |[CSS and Color](https://amna-alhammad.github.io/reading-notes/css-and-color)
+
+ 
