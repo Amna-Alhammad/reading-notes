@@ -54,11 +54,8 @@
 - It is used to uniquely identify that element from other elements on the page.
 -  Its value should start with a letter or an underscore (not a number or any other character).
 - It is important that no two elements on the same page have the same value for their id attributes (otherwise the value is no longer unique).
-~~~
- <p id="pullquote">
- Hello World
-</p> 
-~~~
+
+
  
 
 ## **Class Attribute:**
