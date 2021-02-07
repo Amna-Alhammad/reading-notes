@@ -37,14 +37,11 @@
 
 
  ## **What Versions of HTML:**
- - HTML 4 ``` <!DOCTYPE html PUBLIC
-"-//W3C//DTD HTML 4.01 Transitional//EN"
-"http://www.w3.org/TR/html4/loose.dtd"> ``` (Released 1997)
-- XHTML ``` <!DOCTYPE html PUBLIC
-"-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/
- xhtml1-strict.dtd"> ```  (Released 2000)
+ - HTML 4  (Released 1997)
+- XHTML   (Released 2000)
 - HTML 5 ``` <!DOCTYPE html> ```(Released 2000)
+
+
 ### ***We will use version 5 of HTML.B ecause there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using (although browsers usually display the page even if it is not included).***
 
 ## **How can you add a Comments in HTMl?**
