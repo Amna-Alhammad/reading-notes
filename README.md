@@ -26,7 +26,7 @@ content  | title
 ------------ | -------------
 main       | [README](https://amna-alhammad.github.io/reading-notes/)
 read1   | [class-01](https://amna-alhammad.github.io/reading-notes/class-01)
-read2       |
+read2       |[class-02](https://amna-alhammad.github.io/reading-notes/class-02)
 read3          |
 read4     |
 read5 |
