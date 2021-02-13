@@ -29,7 +29,7 @@ read1   | [class-01](https://amna-alhammad.github.io/reading-notes/class-01)
 read2       |[class-02](https://amna-alhammad.github.io/reading-notes/class-02)
 read3          |[class-03](https://amna-alhammad.github.io/reading-notes/class-03)
 read4     | [class-04](https://amna-alhammad.github.io/reading-notes/class-04)
-read5 |
+read5 |  [class-05](https://amna-alhammad.github.io/reading-notes/class05)
 read6 |
 read7|
 read8 |
