@@ -33,7 +33,7 @@ read5 |  [class-05](https://amna-alhammad.github.io/reading-notes/class05)
 read6 | [class-06](https://amna-alhammad.github.io/reading-notes/class-06)
 read7| [class-07](https://amna-alhammad.github.io/reading-notes/class-07)
 read8 | [class-08](https://amna-alhammad.github.io/reading-notes/class-08)
-read9 |
+read9 | [class-09](https://amna-alhammad.github.io/reading-notes/class-09)
 read10 |
 read 11 |
 read 12 |
